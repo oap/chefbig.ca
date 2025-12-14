@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://chefbig.ca/", // replace this with your deployed domain
+  website: "https://oap.github.io/chefbig-blog/", // replace this with your deployed domain
   author: "加拿大大厨师",
   profile: "https://chefbig.ca/",
   desc: "与你分享生活的点滴。",
