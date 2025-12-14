@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://oap.github.io/chefbig-blog/", // replace this with your deployed domain
+  website: "https://oap.github.io/", // replace this with your deployed domain
   base: "/chefbig-blog/", // replace this with your repo name
   author: "加拿大大厨师",
   profile: "https://chefbig.ca/",
