@@ -1,6 +1,5 @@
 export const SITE = {
-  website: "https://oap.github.io/", // replace this with your deployed domain
-  base: "/chefbig-blog/", // replace this with your repo name
+  website: "https://chefbig.ca/", // replace this with your deployed domain
   author: "加拿大大厨师",
   profile: "https://chefbig.ca/",
   desc: "与你分享生活的点滴。",
@@ -15,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/oap/chefbig-blog/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
